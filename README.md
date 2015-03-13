@@ -44,18 +44,27 @@
 
 
 ## Tags
-Tags in Asana should always be in the following order
+Tags in Asana should always be in the following order:
 
-### Reviewed
-The PR has been reviewed and everything looks good
-### Awaiting Review
-The PR needs someone to take a look at it for feedback
-### Needs Work
-This PR needs has some required changes before merging
-### Doing Now
-This PR is currently being worked on
-### Blocked
-This PR is currently blocked. The person working on this needs something before he can continue.
+- **Reviewed**
+
+  The PR has been reviewed and everything looks good
+
+- **Awaiting Review**
+
+  The PR needs someone to take a look at it for feedback
+
+- **Needs Work**
+
+  This PR needs has some required changes before merging
+
+- **Doing Now**
+
+  This PR is currently being worked on
+
+- **Blocked**
+
+  This PR is currently blocked. The person working on this needs something before he can continue.
 
 ## Daily Standup
 - During the week M-F
