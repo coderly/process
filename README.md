@@ -56,3 +56,11 @@ This PR needs has some required changes before merging
 This PR is currently being worked on
 ### Blocked
 This PR is currently blocked. The person working on this needs something before he can continue.
+
+## Daily Standup
+- During the week M-F
+- We go around in alphabetical order. (Sometimes we can reverse it.)
+  - What did you do?
+  - What do you plan to do today?
+- Do not ask questions that should be discussed on GitHub
+- Do not spend more than 1 minute talking about technical things related to your code
