@@ -1,11 +1,21 @@
-# Coderly Handbook
+# Coderly Process
 
-## New incoming task 
+[Creating a new task](#creating-a-new-task)
+[You get assigned a new Asana task](#you-get-assigned-a-new-asana-task)
+[A task you were assigned isn't clear enough](#a-task-you-were-assigned-isnt-clear-enough)
+[You begin work on a new Asana task](#you-begin-work-on-a-new-asana-task)
+[You have some questions for a task](#you-have-some-questions-for-a-task)
+[You answered someones questions for a task](#you-answered-someones-questions-for-a-task)
+[Daily code review process](#daily-code-review-process)
+[Tags](#tags)
+[Daily Standup](#daily-standup)
+
+## Creating a new task 
 - Create the task in Asana
 - Write a description that is clear. Someone else should be able to get started on the task without needing to ask you any further questions.
 
 ## You get assigned a new Asana task
-- Make sure the task is clear enough
+- Make sure the task is clear enough. Run through the description and see if there are missing details.
 - Assign a due date for yourself and commit to it
 
 ## A task you were assigned isn’t clear enough
