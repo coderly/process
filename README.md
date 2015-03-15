@@ -1,13 +1,21 @@
 # Coderly Process
 
 [Creating a new task](#creating-a-new-task)
+
 [You get assigned a new Asana task](#you-get-assigned-a-new-asana-task)
+
 [A task you were assigned isn't clear enough](#a-task-you-were-assigned-isnt-clear-enough)
+
 [You begin work on a new Asana task](#you-begin-work-on-a-new-asana-task)
+
 [You have some questions for a task](#you-have-some-questions-for-a-task)
+
 [You answered someones questions for a task](#you-answered-someones-questions-for-a-task)
+
 [Daily code review process](#daily-code-review-process)
+
 [Tags](#tags)
+
 [Daily Standup](#daily-standup)
 
 ## Creating a new task 
