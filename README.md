@@ -12,6 +12,8 @@
 
 [You answered someones questions for a task](#you-answered-someones-questions-for-a-task)
 
+[You need your code to be reviewed](#you-need-your-code-to-be-reviewed)
+
 [Daily code review process](#daily-code-review-process)
 
 [Tags](#tags)
@@ -43,7 +45,8 @@
 
 ## You answered someones questions for a task
 - Assign the task back to the person who asked you the question
-- You need your code to be reviewed
+
+## You need your code to be reviewed
 - Assign an `awaiting review` label to your PR
 - Assign an `awaiting review` tag to your task and move it to the top of the section. All “awaiting review” tasks should be at the top of the section.
 
