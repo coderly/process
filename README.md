@@ -50,6 +50,10 @@
 - Assign an `awaiting review` label to your PR
 - Assign an `awaiting review` tag to your task and move it to the top of the section. All “awaiting review” tasks should be at the top of the section.
 
+## You have a PR that will not be merged for some reason
+- Type in a comment explaining the reason why
+- Hit 'Close and comment' when submitting the comment
+
 ## Daily code review process
 - Review all PRs that have the `awaiting review` label
 - How to review a PR
