@@ -58,7 +58,7 @@ Ex 2: If only bower let me develop addons locally, it would speed up my developm
 When working on a feature, the order you work on things matter. Think of a feature as a goal that a user wants to accomplish. A feature where a merchant can list products on a store has the final goal of a listed product with all of the proper attributes. Knowing this, here are the guidelines of prioritizing
 
 - Show Stoppers: Anything that makes it impossible to accomplish the goal goes first.
-- Major Annoyances: Things that really damage the user experience. Example would be that they have to refresh the page to see their changes.
+- Major Annoyances: Things that really damage the user experience. Example would be that they have to refresh the page to see their changes. Generally can go from most major annoyance to least major annoyance.
 - Major Refactoring: If there are things that are really getting in the way of changing code, this is the time to refactor. Don't refactor 100% at this point. Just clean up what is getting in your way.
 - Minor Annoyances: Things that hurt the user experience but the person can get over. Example would be an error message popping up in the middle but if they hit ok they can keep going
 - Minor Refactoring
