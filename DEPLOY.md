@@ -1,5 +1,8 @@
 ##At the start of a project
-- Create a recurring task in Asana for Deploy to production
+- Create a recurring task in Asana for Deploying to production
+
+##Schedule for deploy
+Every day at 6 AM PST. Everyone who is able to be awake during this time is expected to be available.
 
 ##Deploy Checklist
 
