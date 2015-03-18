@@ -1,11 +1,18 @@
-## Deploy checklist
-**To be done far in advance of production deploy**
+##At the start of a project
+- Create a recurring task in Asana for Deploy to production
 
-### List of PRs that will be deployed to production
-- Name of PR
-- Link to PR
-- Testing checklist for PR
-- Are there any DB migrations for this PR? If so, link to the file(s).
+##Deploy Checklist
+
+**To be created the working day before the deploy**
+- Title of the PR linking to the PR like this: [Attempt to upgrade ember-cli to 0.2.0](https://github.com/coderly/reissued-ember/pull/309)
+- Links to the migrations like this: [20150304140930_add_slug_to_users](https://github.com/coderly/reissued-api/blob/development/db/migrate/20150304140930_add_slug_to_users.rb)
 - Are there any incompatible changes in this PR?
+- Testing checklist for PR (to be taken from the PR description)
 
-## List of all DB migrations (if applicable)
+##Day before deploy
+- Everyone: create the deploy checklist for your PRs in a gist make sure the checklist is like
+```
+- [ ] item 1
+- [ ] item 2
+```
+- Everyone: paste your checklist into the Deploy to Production recurring task
