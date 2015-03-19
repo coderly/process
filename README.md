@@ -38,6 +38,11 @@
 - Create a pull request `code pr`
 - Add a link to the Asana task on the first line of the PR description
 - Add a link to the Github PR on the first line of the Asana description
+- Write how the feature would have to be tested by hand in a bullet point list. *Make sure to do this before you write the feature*. Also make sure to keep this up to do date if you find that the requirements change. For example:
+  - Login as a merchant
+  - Go to account => products
+  - Click on "import csv" and upload test_products.csv
+  - Check that the products got imported properly
 
 ## You have some questions for a task
 - Assign the task to whoever is best suited to answer the question
