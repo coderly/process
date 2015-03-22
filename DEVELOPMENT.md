@@ -76,7 +76,7 @@ When working on a feature, the order you work on things matter. Think of a featu
 - Understanding a problem with examples
 - Breaking a problem into sub-problems
 - Prioritizing the order of implementation
-- Naming methods
+- Naming things
 - Empathy when writing code. Thinking about someone else reading, modifying, and using it.
 - Solution finding
   - Problem finding
@@ -85,6 +85,7 @@ When working on a feature, the order you work on things matter. Think of a featu
   - Using Google
   - Within the same project
   - Text search techniques
+  - Following a loose trail 
 - Debugging
   - The factory technique
   - Simplifying the bug
