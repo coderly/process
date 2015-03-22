@@ -62,3 +62,46 @@ When working on a feature, the order you work on things matter. Think of a featu
 - Major Refactoring: If there are things that are really getting in the way of changing code, this is the time to refactor. Don't refactor 100% at this point. Just clean up what is getting in your way.
 - Minor Annoyances: Things that hurt the user experience but the person can get over. Example would be an error message popping up in the middle but if they hit ok they can keep going
 - Minor Refactoring
+
+
+### Skills and principles for becoming a great developer
+- Wishful thinking
+  - APIs, classes, methods, implementation
+  - Development tools
+  - Paying attention to your wishes
+- Separating "what do I want?" from "how can I do this?"
+- How what, why, and how are connected. (Why is a level up the layer of abstraction, what is the current level of abstraction, how is one level down of abstraction. See tree mental model.)
+- Top-down thinking
+- Simplifying a problem
+- Understanding a problem with examples
+- Breaking a problem into sub-problems
+- Prioritizing the order of implementation
+- Naming methods
+- Empathy when writing code. Thinking about someone else reading, modifying, and using it.
+- Solution finding
+  - Problem finding
+  - Problem equivalence (if I know how to find X, then I'll know how to solve Y)
+  - Solution finding
+  - Using Google
+  - Within the same project
+  - Text search techniques
+- Debugging
+  - The factory technique
+  - Simplifying the bug
+  - Making and testing hypothesis
+  - The difference technique
+  - Linear vs. exponential elimination 
+  - Improving the feedback loop
+- Mental models
+  - Code as a machine
+  - Visualizing dependencies
+  - Objects as people in an organization
+  - Imaginary friend
+  - Tree of abstraction
+- Doing things consciously
+- Why you usually get stuck (you are at the wrong level of abstraction)
+- Reflection process
+  - Is there a general principle here?
+  - How can I do this better the next time?
+  - What did I do wrong?
+  - What did I do right?
