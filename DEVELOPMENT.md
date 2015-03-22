@@ -73,6 +73,7 @@ When working on a feature, the order you work on things matter. Think of a featu
 - How what, why, and how are connected. (Why is a level up the layer of abstraction, what is the current level of abstraction, how is one level down of abstraction. See tree mental model.)
 - Top-down thinking
 - Simplifying a problem
+- Root cause analysis of a problem
 - Understanding a problem with examples
 - Breaking a problem into sub-problems
 - Prioritizing the order of implementation
@@ -106,3 +107,7 @@ When working on a feature, the order you work on things matter. Think of a featu
   - How can I do this better the next time?
   - What did I do wrong?
   - What did I do right?
+- Communicating to a the non-technical person
+  - Understanding the information they need and don't need
+  - Clarifying requirements with the use of examples
+  - Asking why to uncover better solutions
