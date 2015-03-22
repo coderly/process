@@ -14,6 +14,9 @@
 
 [You need your code to be reviewed](#you-need-your-code-to-be-reviewed)
 
+[There is an urgent bug on production](#there-is-an-urgent-bug-on-production]
+
+
 [Daily code review process](#daily-code-review-process)
 
 [Tags](#tags)
@@ -58,6 +61,14 @@
 ## You have a PR that will not be merged for some reason
 - Type in a comment explaining the reason why
 - Hit 'Close and comment' when submitting the comment
+
+## There is an urgent bug on production
+- Create a branch using `code fix name of the bug`
+- Write a failing test and type `code publish` to create a hotfix PR
+- Add the `hotfix` and `awaiting review` labels to your PR
+- Bother everyone on the team for a review
+- Create an Asana task with the `hotfix` and `awaiting review` labels in the meanwhile 
+- Once the code has been reviewed, merge it right away
 
 ## Daily code review process
 - Review all PRs that have the `awaiting review` label
