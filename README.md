@@ -137,7 +137,3 @@ Tags in Asana should always be in the following order:
 - **Blocked**
 
   This PR is currently blocked. The person working on this needs something before he can continue.
-  
-- **Merged**
-
-  The PR got merged into the development branch.
