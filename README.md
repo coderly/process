@@ -8,8 +8,6 @@
 
 [You begin work on a new Asana task](#you-begin-work-on-a-new-asana-task)
 
-[You have some questions for a task](#you-have-some-questions-for-a-task)
-
 [You answered someones questions for a task](#you-answered-someones-questions-for-a-task)
 
 [You need your code to be reviewed](#you-need-your-code-to-be-reviewed)
@@ -21,8 +19,6 @@
 [Code review process](#code-review-process)
 
 [Tags](#tags)
-
-[Daily Standup](#daily-standup)
 
 ## Creating a new task 
 - Create the task in Asana
