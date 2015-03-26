@@ -17,12 +17,6 @@
 - Your codebase
 - Google
 - Stack Overflow
-- Other projects (projects that may contain the solution)
-  - Ex: Look at another ember addon to see how they do configuration
-  - Ex: Look at an e-commerce platform to figure out a good database architecture for your custom e-commerce site
-  - Ex: You want to figure out how to do collision detection, so you look for an open source video game to see how they do it.
-  - Ex: I want to keep track of which routes get hit in an Ember application. If you look for how to track page views using an analytics library, that will contain your solution. This is because in order to track page views, you probably need to be able to hook into when a route is hit.
-
 - GitHub Issues
 - Past experience
 
