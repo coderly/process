@@ -73,7 +73,7 @@
 **Expected turnaround time: 2 hrs**
 - Go through all `question` PRs that are marked as `blocked`
 - Go through all `awaiting review` PRs that are marked as `blocked`
-- Merge all of your `reviewed and looks good` PRs and assign a `merged` label to the Asana task
+- Merge all of your `reviewed and looks good` PRs and check off the related Asana task(s)
 - Process all of the `answered` labels
   - Check off the answered questions
   - If any questions have not been answered move from `answered` to `question` again
@@ -137,7 +137,3 @@ Tags in Asana should always be in the following order:
 - **Blocked**
 
   This PR is currently blocked. The person working on this needs something before he can continue.
-  
-- **Merged**
-
-  The PR got merged into the development branch.
