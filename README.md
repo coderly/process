@@ -8,8 +8,6 @@
 
 [You begin work on a new Asana task](#you-begin-work-on-a-new-asana-task)
 
-[You have some questions for a task](#you-have-some-questions-for-a-task)
-
 [You answered someones questions for a task](#you-answered-someones-questions-for-a-task)
 
 [You need your code to be reviewed](#you-need-your-code-to-be-reviewed)
@@ -35,6 +33,7 @@
 ## A task you were assigned isn’t clear enough
 - Assign the task to whoever is best suited to clarify the task
 - Write question as a comment in the Asana task and reference the person who can answer it (like @JoshSmith)
+- Make sure to do write the questions the first time you look at the task, right after double checking if you missed some details, dont leave it for later.
 
 ## You begin work on a new Asana task
 - Create a new feature branch like `code start update product photos`
