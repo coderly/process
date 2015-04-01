@@ -33,7 +33,7 @@
 ## A task you were assigned isn’t clear enough
 - Assign the task to whoever is best suited to clarify the task
 - Write question as a comment in the Asana task and reference the person who can answer it (like @JoshSmith)
-- Make sure to do write the questions the first time you look at the task, right after double checking if you missed some details, dont leave it for later.
+- Make sure to do write the questions the first time you look at the task right after double checking if you missed some details. Dont leave it for later.
 
 ## You begin work on a new Asana task
 - Create a new feature branch like `code start update product photos`
