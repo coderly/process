@@ -84,7 +84,7 @@ There are some cases when generalizing right away may be worth it. there's a cou
 - How much work will take to generalize this code now?
 - How much work will take to generalize this code when I need it to handle other cases?
 
-if the answer to the second questions is a lot more than the answer to the first one, it may be a a good idea to think about generalizing right away.
+If the answer to the second questions is a lot more than the answer to the first one, it may be a a good idea to think about generalizing right away.
 
 ### Skills and principles for becoming a great developer
 - Wishful thinking
