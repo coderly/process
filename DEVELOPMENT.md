@@ -64,27 +64,27 @@ When working on a feature, the order you work on things matter. Think of a featu
 - Minor Refactoring
 
 ### Should I make my code more general?
-Sometimes we consider adding more flexibility to our current code in order to make future changes easier or to make a piece of code usable for some slightly different scenarios, this process has a couple issues:
+Sometimes we consider adding more flexibility to our current code in order to make future changes easier or to make a piece of code usable for some slightly different scenarios. This process has a couple issues:
 
--  **The extra code you write may not be used at all:**
+-  **The extra code you write may not be used at all**
     The other scenarios where the code piece will be needed may never come, but you may have spent 4 more hours trying to make your code work for all future scenarios that will not exist.
 
-- **You may lose a lot more time on a task that shouldnt normally take that long:**
+- **You may lose a lot more time on a task that shouldnt normally take that long**
     Yeah, of course this is ususally answered with the "I'm saving a lot of time for later" response, but you never know the actual amount of time you're saving for the future. If you need to do something ASAP, dont waste time today to save you some unknown time tomorrow.
 
-- **You may not be aware of what things need to be common between scenarios:**
+- **You may not be aware of what things need to be common between scenarios**
     Writing code for one scenario may not give you enough information about the common things among all the future scenarios. Usually the magic number of cases is 3, after you copy and modify a piece of code for the third time you should know in that moment what needs to be in all scenarios and extract that in a class or any other extensible code statement.
 
-#### when to generalize:
+#### When to generalize:
 
 The 3 cases rule mentioned before is very useful for this, if you have more than 2 cases where a piece of code is repeated, you should have a pretty accurate idea of what needs to be generalized and how to do it.
 
-There are some cases when generalizing right away may be worth it. there's a couple questions you can ask yourself to identify them:
+There are some cases when generalizing right away may be worth it. There's a couple questions you can ask yourself to identify them:
 
-- How much work will take to generalize this code now?
-- How much work will take to generalize this code when I need it to handle other cases?
+- How much work will it be to generalize this code now?
+- How much work will it be to generalize this code when I need it to handle other cases?
 
-If the answer to the second questions is a lot more than the answer to the first one, it may be a a good idea to think about generalizing right away.
+If generalizing later will increase the overall work by a lot, then you should generalize it right away.
 
 ### Skills and principles for becoming a great developer
 - Wishful thinking
